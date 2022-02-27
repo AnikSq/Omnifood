@@ -13,3 +13,7 @@ https://omnifood-new.netlify.app/
 
 
 Now what do you think?
+
+
+This site was created using only html, css and javascript. 
+Pretty cool right?
